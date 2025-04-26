@@ -81,7 +81,8 @@ Once the slideshow is running, launch the live demo script that performs gesture
 
 ## Architecture:
 ![Architecture:](images/diagram.png)
-
+## Live demo example:
+![Live:](images/gesture.png)
 
 
 
