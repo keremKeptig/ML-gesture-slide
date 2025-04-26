@@ -1,0 +1,13 @@
+opencv-python
+numpy
+mediapipe
+pandas
+pyyaml
+sanic
+matplotlib
+pandas
+jupyter
+pickle5 
+argparse
+websockets
+notebook

@@ -1,0 +1,89 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE and editor settings
+.idea/
+.vs/
+.vscode/
+*.sublime-workspace
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environments
+venv/
+.env/
+*.venv
+
+# Ignore dependency lock files
+Pipfile.lock
+poetry.lock
+
+# Ignore log files
+logs/
+*.log
+nohup.out
+
+# Ignore large dataset files
+*.csv
+*.tsv
+*.jsonl
+*.sqlite
+*.db
+
+# Ignore large media files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Ignore model files (weights, checkpoints)
+models/
+*.h5
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.tflite
+*.pb
+
+# Ignore large image files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.svg
+
+# Ignore compressed files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+
+# Ignore compiled files
+*.o
+*.a
+*.out
+*.exe
+*.dll
+
+# Ignore dataset & processed data folders
+demo_data/
+process_videos/
+
+# Ignore slideshow presentations
+slideshow/
+*.pptx
+*.key

@@ -1,0 +1,3 @@
+ python log-events-script.py --input_csv=girl_swipe_right_corrected.csv --output_csv_name=performance_results.csv      
+ python calculator.py --events_csv=performance_results.csv --ground_truth_csv=girl_swipe_right_corrected.csv
+ python events_visualization.py --events_csv=performance_results.csv --ground_truth_csv=girl_swipe_right_corrected.csv     
