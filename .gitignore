@@ -57,13 +57,7 @@ models/
 *.tflite
 *.pb
 
-# Ignore large image files
-*.png
-*.jpg
-*.jpeg
-*.bmp
-*.tiff
-*.svg
+
 
 # Ignore compressed files
 *.zip
