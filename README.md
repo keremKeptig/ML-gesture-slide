@@ -79,7 +79,7 @@ Once the slideshow is running, launch the live demo script that performs gesture
 
 `python live_mode.py`
 
-
+## Architecture:
 ![Architecture:](images/diagram.png)
 
 
